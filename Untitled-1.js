@@ -11,3 +11,35 @@ wget -x -nH https://kprverse.com/images/tableau/factions/second-layer/flow-0/set
 wget -x -nH https://kprverse.com/images/tableau/universe/second-layer/flow-0/set-4/boon-transmission.png;
 wget -x -nH https://kprverse.com/images/tableau/universe/second-layer/flow-0/set-0/boon-noodles.webm;
 wget -x -nH https://kprverse.com/images/tableau/universe/second-layer/flow-0/set-3/boon-logo.webm
+
+
+wget -x -nH https://kprverse.com/_nuxt/media.9e3834f9.css;
+wget -x -nH https://kprverse.com/_nuxt/parallax-image.7bf9877c.css;
+wget -x -nH https://kprverse.com/_nuxt/indented-title.729615c7.css;
+wget -x -nH https://kprverse.com/_nuxt/about-header.73b486d7.css;
+wget -x -nH https://kprverse.com/_nuxt/about-team.09be8a19.css;
+wget -x -nH https://kprverse.com/_nuxt/about-kpr.984b20c3.css;
+wget -x -nH https://kprverse.com/_nuxt/global-reference.b4e2cc5e.css
+
+wget -x -nH https://kprverse.com/_nuxt/about-team-info.f54e1c2c.css;
+wget -x -nH https://kprverse.com/_nuxt/about-team-member.a18809aa.css;
+wget -x -nH https://kprverse.com/_nuxt/about-team-spacer.cef9dec7.css;
+wget -x -nH https://kprverse.com/_nuxt/to-be-continued.174362e5.css
+
+wget -x -nH https://kprverse.com/_nuxt/about-team-info.90a27b4d.js;
+wget -x -nH https://kprverse.com/_nuxt/arrow-external.eca25ff0.js;
+wget -x -nH https://kprverse.com/_nuxt/about-team-spacer.4be6d5bd.js;
+wget -x -nH https://kprverse.com/_nuxt/about-team-member.ff6a5ec0.js;
+wget -x -nH https://kprverse.com/_nuxt/useIntersecting.cf09188c.js;
+wget -x -nH https://kprverse.com/_nuxt/to-be-continued.5392e412.js;
+wget -x -nH https://kprverse.com/_nuxt/discord.184eefd6.js;
+wget -x -nH https://kprverse.com/_nuxt/twitter.7cdc83a0.js
+
+wget -x -nH https://kprverse.com/_nuxt/link-arrow.cfd66816.css;
+wget -x -nH https://kprverse.com/_nuxt/fade-text.087ee5fa.css;
+wget -x -nH https://kprverse.com/_nuxt/icon-next.8e6c8adc.css;
+wget -x -nH https://kprverse.com/_nuxt/icon-prev.b348b835.css;
+wget -x -nH https://kprverse.com/_nuxt/featured-articles.c85ac01a.css;
+wget -x -nH https://kprverse.com/_nuxt/journal-listing-hero.ba47f258.css;
+wget -x -nH https://kprverse.com/_nuxt/journal-listing-item.00bb6d83.css;
+wget -x -nH https://kprverse.com/_nuxt/journal-listing-items.370a2936.css
