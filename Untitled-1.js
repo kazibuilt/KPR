@@ -43,3 +43,20 @@ wget -x -nH https://kprverse.com/_nuxt/featured-articles.c85ac01a.css;
 wget -x -nH https://kprverse.com/_nuxt/journal-listing-hero.ba47f258.css;
 wget -x -nH https://kprverse.com/_nuxt/journal-listing-item.00bb6d83.css;
 wget -x -nH https://kprverse.com/_nuxt/journal-listing-items.370a2936.css
+
+wget -x -nH https://kprverse.com/images/general/square-aspect.jpg
+
+wget -x -nH https://kprverse.com/_nuxt/scroll-scale.1613bc33.css;
+wget -x -nH https://kprverse.com/_nuxt/touching-line.0b8b8749.css;
+wget -x -nH https://kprverse.com/_nuxt/random-offset.4e78db88.css;
+wget -x -nH https://kprverse.com/_nuxt/console-text.32c064d0.css;
+wget -x -nH https://kprverse.com/_nuxt/media-intrinsic-size.c3c35ffb.css;
+wget -x -nH https://kprverse.com/_nuxt/image-gallery.1a6d2dd7.css;
+wget -x -nH https://kprverse.com/_nuxt/content-media.8d671244.css
+
+wget -x -nH https://kprverse.com/_nuxt/media-audio.af1717f0.css;
+wget -x -nH https://kprverse.com/_nuxt/audio-bar-wave.f11f2a56.css;
+wget -x -nH https://kprverse.com/_nuxt/audio-player.01e4fdfd.css;
+wget -x -nH https://kprverse.com/_nuxt/media-image.c181c4e5.css;
+wget -x -nH https://kprverse.com/_nuxt/btn-play.12726947.css;
+wget -x -nH https://kprverse.com/_nuxt/media-video.cea777ff.css
