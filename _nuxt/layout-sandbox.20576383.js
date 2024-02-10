@@ -1,1 +1,0 @@
-import{f as s,l as a,s as o,o as t}from"./entry.40e762a9.js";const e={class:"layout-sandbox",id:"layout"},d=s({__name:"layout-sandbox",props:{},emits:[],setup:(s,{emit:d})=>(s,d)=>(t(),a("div",e,[o(s.$slots,"default",{},void 0,!0)]))},[["__scopeId","data-v-623f27ee"]]);export{d as default};
