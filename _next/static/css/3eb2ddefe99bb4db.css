@@ -380,7 +380,8 @@
 }
 
 ._1a8f2hv0 {
-    position: relative
+    position: relative;
+    display: none;
 }
 
 ._1a8f2hv1 {
@@ -399,7 +400,6 @@
     left: 0;
     object-fit: cover;
     object-position: bottom;
-    display: none;
 }
 
 ._1a8f2hv5 {

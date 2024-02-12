@@ -2121,6 +2121,7 @@
     grid-row: 1
 }
 
+
 ._1ei5n747 {
     max-width: var(--xy86ox2v)
 }
@@ -4967,4 +4968,10 @@
     .vni80sc {
         order: 2
     }
+}
+
+._1ei5n741 {
+    height: 100vh;
+    background: url('/assets/imgs/hero3.jpg');
+    background-size: cover;
 }
