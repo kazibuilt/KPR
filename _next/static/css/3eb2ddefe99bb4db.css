@@ -381,7 +381,7 @@
 
 ._1a8f2hv0 {
     position: relative;
-    display: none;
+    
 }
 
 ._1a8f2hv1 {
@@ -1231,3 +1231,15 @@ background-repeat: no-repeat;
   display: none;
     
     }
+
+    [id="\33 7c512791e20"] > div._1ei5n741 > div._1ei5n745 > div > div > div > video {
+
+        display: none;
+          
+          }
+
+[id="\33 7c512791e20"] > div._1ei5n741 > div._1ei5n745 > div > div > div > img {
+
+    display: none;
+      
+      }
